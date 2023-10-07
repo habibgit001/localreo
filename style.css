@@ -1,3 +1,12 @@
 p{
     color: red;
 }
+button{
+    color: green;
+    font-size: 50px;
+    font-weight: 300;
+}
+textarea{
+    border: 5px solid gray;
+    border-radius: 10px;
+}
